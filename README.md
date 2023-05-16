@@ -11,7 +11,7 @@ Além da minha paixão por tecnologia, tenho experiência em atendimento ao clie
 
 # <b>Objetivo Profissional</b>
 
-Tenho como objetivo alcançar uma posição de junior na área de Front-End. Espero criar capacitação para meu próprio desenvolvimento e contribuir com o crescimento da empresa.<br><br><br>
+Tenho como objetivo alcançar uma posição de junior na área de Front-End ou FullStack. Espero criar capacitação para meu próprio desenvolvimento e contribuir com o crescimento da empresa.<br><br><br>
 
 # <b>Habilidades</b>
 
