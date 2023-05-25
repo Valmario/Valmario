@@ -1,10 +1,10 @@
 # <b>[Valmário Lopes](https://www.linkedin.com/in/valmariolopes/)</b>
 
-<b>Front-end Jr</b><br><br><br>
+<b>Full Stack Jr</b><br><br><br>
 
 # <b>Sobre</b>
 
-Olá, sou Valmário Lopes, Desenvolvedor front-end em formação, sou fascinado pelo mundo da programação que nos possibilita transformar a vida das pessoas.
+Olá, sou Valmário Lopes, Desenvolvedor Full Stack em formação, sou fascinado pelo mundo da programação que nos possibilita transformar a vida das pessoas.
 Sempre estudando procurando evoluir minhas habilidades.
 
 Além da minha paixão por tecnologia, tenho experiência em atendimento ao cliente, onde aprendi a importância de oferecer um serviço excepcional e entender as necessidades dos clientes. No entanto, meu interesse em tecnologia me levou a buscar uma carreira na área de desenvolvimento front-end. Estou animado em aplicar minhas habilidades em tecnologia para criar soluções inovadoras e atender às necessidades dos usuários finais. Se você está procurando um desenvolvedor front-end comprometido em fornecer experiências de usuário incríveis, entre em contato comigo.<br><br><br>
